@@ -1,0 +1,13 @@
+Description,,Summary Amt.
+Beginning balance as of 07/24/2015,,"4508.95"
+Total credits,,"3985.17"
+Total debits,,"-2084.88"
+Ending balance as of 08/21/2015,,"6409.24"
+
+Date,Description,Amount,Running Bal.
+07/24/2015,Beginning balance as of 07/24/2015,,"4508.95"
+07/31/2015,"HEWLETT-PACKARD DES:EDI PAYMTS ID:XXXXX687734 INDN:BILBRAY,KYLE CO ID:XXXXX81436 PPD","1992.55","6501.50"
+08/04/2015,"Legacy Village A DES:WEB PMTS ID:6C9TC2 INDN:Kyle Bilbray CO ID:XXXXX57512 WEB","-1002.50","5499.00"
+08/06/2015,"Online Banking payment to CRD 0039 Confirmation# 4287220502","-1082.38","4416.62"
+08/14/2015,"HEWLETT-PACKARD DES:EDI PAYMTS ID:XXXXX687734 INDN:BILBRAY,KYLE CO ID:XXXXX98624 PPD","1992.57","6409.19"
+08/21/2015,"Interest Earned","0.05","6409.24"

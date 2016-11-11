@@ -1,0 +1,10 @@
+
+RewriteEngine on
+RewriteCond %{HTTP_HOST} ^accounting\.m2kt1x\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.accounting\.m2kt1x\.com$
+RewriteRule ^/?$ "http\:\/\/accounting\.m2kt1x\.com\/index\.php" [R=301,L]
+
+RewriteCond %{HTTP_HOST} ^accounting\.m2kt1x\.com$ [OR]
+RewriteCond %{HTTP_HOST} ^www\.accounting\.m2kt1x\.com$
+RewriteRule ^index\.php\/$ "http\:\/\/accounting\.m2kt1x\.com\/index\.php" [R=301,L]
+
